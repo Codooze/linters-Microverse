@@ -1,38 +1,10 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- <!-- <img src="#" alt="logo" width="140"  height="auto" /> -->
+ 
   <br/>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -53,8 +25,6 @@ After you're finished please remove all the comments and instructions!
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Linters-Microverse <a name="about-project"></a>
 
@@ -77,10 +47,6 @@ Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 A new developer could use this as a template to start a new project that is using some linter checks, and a quite decent template.
@@ -93,26 +59,9 @@ In order to run this project you need:
 
 - Install dependencies, see `package.json`
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
@@ -122,26 +71,9 @@ Install this project with:
 
 this will install the dependencies you have in the `package.json`
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 To run the project, we recommend to use the live server extension in vscode, or any other editor.
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -151,45 +83,19 @@ To run tests, run the following command:
 
 this command will run webhint
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
 
 You can deploy this project using, vercel or any prefer deployment platform.
 
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Author <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
 - GitHub: [@Mehr-o-maah](https://github.com/Mehr-o-maah)
 - Twitter: [@\_M_Jace\_\_](https://twitter.com/_M_Jace__)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<!-- 👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeison-albeiro-martinez-barreto-b93162a4/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,25 +118,17 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, give it a ⭐️! and if you want to support me, follow me on twitter [@\_M_Jace\_\_](https://twitter.com/_M_Jace__)!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank, Microverse for this well made template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
