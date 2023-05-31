@@ -57,11 +57,16 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- clone this repository to your local machine (instructions below)
+- Node.js (you can install it from [here](https://nodejs.org/en/download/) )
+- pnpm (you can install it from [here](https://pnpm.io/installation) )
 - Install dependencies, see `package.json`
 
 ### Setup
 
 Clone this repository to your desired folder:
+
+Example: `git clone https://github.com/Mehr-o-maah/linters-Microverse.git <your-folder-name>` on your terminal.
 
 ### Install
 
@@ -132,6 +137,6 @@ I would like to thank, Microverse for this well made template.
 
 ## 📝 License <a name="license"></a>
 
-# This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed.
+# This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed, owner Jeison Martinez.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
