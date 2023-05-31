@@ -1,4 +1,4 @@
-`<a name="readme-top"></a>`
+<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -56,13 +56,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Linters-Microverse `<a name="about-project"></a>`
+# 📖 Linters-Microverse <a name="about-project"></a>
 
 Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
 
-## 🛠 Built With `<a name="built-with"></a>`
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack `<a name="tech-stack"></a>`
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -71,21 +71,17 @@ Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
   </ul>
 </details>
 
-### Key Features `<a name="key-features"></a>`
+### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- it welcomes the view with a well styled greeting
+- it welcomes the users with a well styled greeting
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started `<a name="getting-started"></a>`
+## 💻 Getting Started <a name="getting-started"></a>
 
 A new developer could use this as a template to start a new project that is using some linter checks, and a quite decent template.
 
@@ -137,7 +133,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, we recommend to use the live server extension in vscode, or any other editor.
 
 <!--
 Example command:
@@ -165,7 +161,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using, versel or any prefer deployment platform.
+You can deploy this project using, vercel or any prefer deployment platform.
 
 <!--
 Example:
@@ -179,7 +175,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Author `<a name="authors"></a>`
+## 👥 Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -189,28 +185,26 @@ Example:
 - Twitter: [@\_M_Jace\_\_](https://twitter.com/_M_Jace__)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+<!-- 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeison-albeiro-martinez-barreto-b93162a4/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeison-albeiro-martinez-barreto-b93162a4/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features `<a name="future-features"></a>`
+## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] The greeting should have a button to make the greeting fancier
-- [ ] A dragon should be dysplay in the footer, because why not?
+- [ ] The greeting should have a button to make it fancier
+- [ ] A dragon should be displayed in the footer, because why not?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing `<a name="contributing"></a>`
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -220,19 +214,15 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support `<a name="support"></a>`
+## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, give it a ⭐️! and if you want to support me, follow me on twitter [@\_M_Jace\_\_](https://twitter.com/_M_Jace__)!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
-
-> Give credit to everyone who inspired your codebase.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank, Microverse for this well made template.
 
@@ -242,7 +232,7 @@ I would like to thank, Microverse for this well made template.
 
 <!-- LICENSE -->
 
-## 📝 License `<a name="license"></a>`
+## 📝 License <a name="license"></a>
 
 # This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed.
 
