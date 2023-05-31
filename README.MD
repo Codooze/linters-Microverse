@@ -56,13 +56,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Linters-Microverse `<a name="about-project"></a>`
+# 📖 Linters-Microverse <a name="about-project"></a>
 
 Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
 
-## 🛠 Built With `<a name="built-with"></a>`
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack `<a name="tech-stack"></a>`
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -71,7 +71,7 @@ Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
   </ul>
 </details>
 
-### Key Features `<a name="key-features"></a>`
+### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
@@ -85,7 +85,7 @@ Linters-Microverse is a welcome greeting to Microverse, and a test for linters.
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started `<a name="getting-started"></a>`
+## 💻 Getting Started <a name="getting-started"></a>
 
 A new developer could use this as a template to start a new project that is using some linter checks, and a quite decent template.
 
@@ -179,7 +179,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Author `<a name="authors"></a>`
+## 👥 Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -199,7 +199,7 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features `<a name="future-features"></a>`
+## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
@@ -210,7 +210,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing `<a name="contributing"></a>`
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -220,7 +220,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support `<a name="support"></a>`
+## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
@@ -230,7 +230,7 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -242,7 +242,7 @@ I would like to thank, Microverse for this well made template.
 
 <!-- LICENSE -->
 
-## 📝 License `<a name="license"></a>`
+## 📝 License <a name="license"></a>
 
 # This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed.
 
