@@ -1,4 +1,4 @@
-`<a name="readme-top"></a>`
+<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -244,6 +244,9 @@ I would like to thank, Microverse for this well made template.
 
 ## 📝 License `<a name="license"></a>`
 
-This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed.
+# This project is [MIT](https://github.com/Mehr-o-maah/linters-Microverse/blob/main/MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
